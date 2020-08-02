@@ -34,7 +34,7 @@ WA Message System, Written in React Native, it uses WhatsApp Chat API data as ba
 
 1. Clone this repository
    ```
-   $ git clone https://github.com/purkonuddin/frontend-pos.git
+   $ git clone https://github.com/purkonuddin/myWhatsApp.git
    ```
 2. Install all depedencies on the package.json
    ```
