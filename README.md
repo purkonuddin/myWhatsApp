@@ -26,6 +26,12 @@ WA Message System, Written in React Native, it uses WhatsApp Chat API data as ba
 
 - Send message to Whatsapp number.
 
+About Chat API 
+Chat API is designed to create chat bots and integrate WhatsApp with business systems: CRM, ERP or a website.
+Send a message to a phone number connected to WhatsApp or to a group chat.
+instance: My API URL https://eu157.chat-api.com/instance156925/ and token xxxxxxxxxxxx this account paid for 2 days
+until 04.08.2020 19:53.
+
 ## Demo
 
 ![IMG-20200801-WA0004 1](https://user-images.githubusercontent.com/44079569/89120524-37602780-d4e1-11ea-9286-6844ec07a776.jpg)
