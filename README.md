@@ -51,9 +51,9 @@ until 04.08.2020 19:53.
    $ npx react-native run-android
    ```
 
-## Release Website
+## Release apk
 
--
+-[myWhatsapp.apk)](https://drive.google.com/file/d/1iRjePxa7sGm2JwbXATMMWE76ALpyR3lR/view?usp=sharing)
 
 ## Related
 
